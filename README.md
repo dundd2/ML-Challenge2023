@@ -1,5 +1,9 @@
-# ML-Challenge 2023
-## Task
+# ML-Challenge 2023-2024
+##  Most creative solution prize Submission Brief Write-up
+I am truly honoured to have received the **Most Creative Solution** prize for my submission. This recognition validates my approach to incorporating AI into my work, which I didn't initially expect to be accepted so positively.
+![Most Creative Solution Prize Certificate](https://github.com/user-attachments/assets/374948b5-7e4b-4e24-a2ac-9dd0094fe1c9)
+
+# Task
 Your task is to classify sensor data to determine whether the movement is part of walking or driving. The data set has been prepared with columns representing time step, action (1 for walking and 4 for driving), and then the acceleration in the x, y and z. This data is a subset of the data from <a href="https://physionet.org/content/accelerometry-walk-climb-drive/1.0.0/#files">this dataset</a>. 
 
 There is an award for best accuracy and another for the most creative solution. 
