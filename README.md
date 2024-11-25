@@ -1,8 +1,7 @@
 # ML-Challenge 2023-2024
 ##  Most creative solution prize Submission Brief Write-up
 I am truly honoured to have received the **Most Creative Solution** prize for my submission. This recognition validates my approach to incorporating AI into my work, which I didn't initially expect to be accepted so positively.
-
----
+![Most Creative Solution Prize Certificate](https://github.com/user-attachments/assets/374948b5-7e4b-4e24-a2ac-9dd0094fe1c9)
 
 ## Acknowledgments
 This project leverages a Large Language Model (LLM) known as **"im-a-good-gpt2-chatbot."** While I did not write any of the code myself, I was responsible for training the model and converting the Python code to Jupyter Notebook format. It has been an exciting journey to witness the advancements in LLMs as of May 2024.
